@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.8f4dad3e.js",
+    "static/media/Sysco-Logo-blue.png": "/static/media/Sysco-Logo-blue.f8ec29138a7e220f0198.png",
+    "static/media/Sysco-Logo-White.png": "/static/media/Sysco-Logo-White.62bb78bb76de0b21d925.png",
+    "index.html": "/index.html",
+    "main.8f4dad3e.js.map": "/static/js/main.8f4dad3e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8f4dad3e.js"
+  ]
+}
